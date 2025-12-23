@@ -28,5 +28,5 @@ If you want to use a larger model (like TinyLlama), deploy on a GPU host instead
 
 ## Files
 - `app.py` — Streamlit UI + model loading + inference
-- `original_gradio_colab.py` — your original script (reference)
+- `original_gradio_colab.py` — original script (reference)
 - `requirements.txt` — dependencies
