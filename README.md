@@ -1,5 +1,7 @@
 # Image Caption + VQA + Explanation (Streamlit)
 
+Click here fora live demo: https://image-caption-daaappd3r7bt43r8f5gms3u.streamlit.app/
+
 This repository is a Streamlit version of a Colab/Gradio demo that:
 1. Generates an **image caption** using **BLIP** (`Salesforce/blip-image-captioning-base`)
 2. Optionally answers a question about the image (**VQA**) using **BLIP VQA** (`Salesforce/blip-vqa-base`)
