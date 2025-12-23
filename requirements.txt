@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+transformers
+accelerate
+pillow
+numpy
+sentencepiece
+timm
+safetensors
